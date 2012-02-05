@@ -1,0 +1,256 @@
+TSumof2Nos
+v7
+r0
+t318360649.816613
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Info.plist" Sumof2Nos-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/DynamicButtonViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch.gch Sumof2Nos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonAppDelegate.o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonViewController.o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app.dSYM" "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos"
+cTouch "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.h
+c000000004D29CC3500000000000001FA
+t1294584885
+s506
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m
+c000000004D29CC350000000000000AAA
+t1294584885
+s2730
+i"DynamicButtonAppDelegate.h"
+i"DynamicButtonViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.h
+c000000004D29D6DA0000000000000209
+t1294587610
+s521
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m
+c000000004D2B183C000000000000078E
+t1294669884
+s1934
+i"DynamicButtonViewController.h"
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/DynamicButtonViewController.xib
+c000000004D29D83B00000000000080BD
+t1294587963
+s32957
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/MainWindow.xib
+c000000004D29CC350000000000004E71
+t1294584885
+s20081
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Sumof2Nos_Prefix.pch
+c000000004D29CC3500000000000000C3
+t1294584885
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app
+t1296667849
+s238
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app.dSYM
+t1296667849
+s102
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/DynamicButtonViewController.nib
+t1296667848
+s2912
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Info.plist
+t1296667847
+s599
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/MainWindow.nib
+t1296667848
+s1135
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/PkgInfo
+t1296667847
+s8
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos
+t1296667849
+s19112
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonAppDelegate.o
+t1296667849
+s51332
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonViewController.o
+t1296667849
+s44844
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/Sumof2Nos.LinkFileList
+c000000004D4994C700000000000001BD
+t1296667847
+s445
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/main.o
+t1296667849
+s6320
+
+N/Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m
+c000000004D29CC350000000000000166
+t1294584885
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch.gch
+t1296667849
+s15453392
+
+NSumof2Nos-Info.plist
+c000000004D29CC35000000000000038D
+t1294584885
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies318360647#318360647#0(0"0(0#1#0"8612855136#0"0#
+
+CCompileC build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonAppDelegate.o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318360649.309452
+e318360649.484187
+r1
+xCompileC
+xbuild/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonAppDelegate.o
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@89"Compile /Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m318360649#318360649#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m8599314496#2112"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonAppDelegate.m" -o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonAppDelegate.o"0#
+
+CCompileC build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonViewController.o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318360649.463764
+e318360649.537769
+r1
+xCompileC
+xbuild/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonViewController.o
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@92"Compile /Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m318360649#318360649#0(0"0(0#0#84"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m8597345024#2118"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Classes/DynamicButtonViewController.m" -o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/DynamicButtonViewController.o"0#
+
+CCompileC build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s318360649.308223
+e318360649.463661
+r1
+xCompileC
+xbuild/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@61"Compile /Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m318360649#318360649#0(0"0(0#0#53"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m8598566368#2064"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch -c "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/main.m" -o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/DynamicButtonViewController.xib"
+s318360647.734534
+e318360648.309657
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/DynamicButtonViewController.xib
+lSLF07#2@42"CompileXIB DynamicButtonViewController.xib318360647#318360648#0(0"0(0#0#78"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/DynamicButtonViewController.xib8612892832#636"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/DynamicButtonViewController.nib" "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/DynamicButtonViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/MainWindow.xib"
+s318360647.714995
+e318360648.242887
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib318360647#318360648#0(0"0(0#0#61"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/MainWindow.xib8612929504#602"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app.dSYM" "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos"
+s318360649.750455
+e318360649.813616
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app.dSYM
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos
+lSLF07#2@115"GenerateDSYMFile build/Debug-iphonesimulator/Sumof2Nos.app.dSYM build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos318360649#318360649#0(0"0(0#0#98"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos8606249632#419"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos" -o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos" normal i386
+s318360649.537882
+e318360649.750359
+r1
+xLd
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos
+xnormal
+xi386
+lSLF07#2@103"Link /Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos318360649#318360649#0(0"0(0#0#0"8598452448#960"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Objects-normal/i386/Sumof2Nos.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Sumof2Nos"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Info.plist" Sumof2Nos-Info.plist
+s318360647.691654
+e318360647.714901
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Info.plist
+xSumof2Nos-Info.plist
+lSLF07#2@28"Process Sumof2Nos-Info.plist318360647#318360647#0(0"0(0#0#67"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Sumof2Nos-Info.plist8458375222990353408#515"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility Sumof2Nos-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch.gch Sumof2Nos_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s318360648.309781
+e318360649.308022
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch.gch
+xSumof2Nos_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@31"Precompile Sumof2Nos_Prefix.pch318360648#318360649#0(0"0(0#0#67"/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Sumof2Nos_Prefix.pch8612605152#1944"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/Sumof2Nos-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Sumof2Nos.build/Debug-iphonesimulator/Sumof2Nos.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/Sumof2Nos_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/Sumof2Nos_Prefix-hdsejektknzmjlcamxfqnshxwlcc/Sumof2Nos_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app"
+s318360649.813702
+e318360649.816564
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app
+lSLF07#2@94"Touch /Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app318360649#318360649#0(0"0(0#0#0"8605995392#300"    cd "/Users/sathish/Documents/iPhone Apps/Sumof2Nos"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Apps/Sumof2Nos/build/Debug-iphonesimulator/Sumof2Nos.app"0#
+

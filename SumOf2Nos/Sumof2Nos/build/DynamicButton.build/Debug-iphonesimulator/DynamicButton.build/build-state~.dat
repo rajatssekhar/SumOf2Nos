@@ -1,0 +1,256 @@
+TDynamicButton
+v7
+r0
+t316277997.275246
+cCheck dependencies
+cProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/Info.plist" DynamicButton-Info.plist
+cCompileXIB "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/MainWindow.xib"
+cCompileXIB "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButtonViewController.xib"
+cProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch.gch DynamicButton_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cCompileC build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonViewController.o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+cLd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton" normal i386
+cGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton"
+cTouch "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app"
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk
+c000000004CC128950000000000000110
+t1287727253
+s272
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/CoreGraphics.framework/CoreGraphics
+c000000004CC12246000000000029B310
+t1287725638
+s2732816
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Foundation
+c000000004CC1226D000000000029D5D0
+t1287725677
+s2741712
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/Foundation.framework/Headers/Foundation.h
+c000000004CC1225F0000000000001466
+t1287725663
+s5222
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/Headers/UIKit.h
+c000000004CC1281F0000000000000AA1
+t1287727135
+s2721
+
+N/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk/System/Library/Frameworks/UIKit.framework/UIKit
+c000000004CC12883000000000074D7B0
+t1287727235
+s7657392
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.h
+c000000004D29CC3500000000000001FA
+t1294584885
+s506
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m
+c000000004D29CC350000000000000AAA
+t1294584885
+s2730
+i"DynamicButtonAppDelegate.h"
+i"DynamicButtonViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.h
+c000000004D29CD6B000000000000010C
+t1294585195
+s268
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m
+c000000004D29CD5A00000000000005FD
+t1294585178
+s1533
+i"DynamicButtonViewController.h"
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButtonViewController.xib
+c000000004D29CC350000000000001A5D
+t1294584885
+s6749
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButton_Prefix.pch
+c000000004D29CC3500000000000000C3
+t1294584885
+s195
+i<Foundation/Foundation.h>
+i<UIKit/UIKit.h>
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/MainWindow.xib
+c000000004D29CC350000000000004E71
+t1294584885
+s20081
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app
+t1294585197
+s238
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app.dSYM
+t1294585197
+s102
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton
+t1294585197
+s17892
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButtonViewController.nib
+t1294585195
+s795
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/Info.plist
+t1294585195
+s615
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/MainWindow.nib
+t1294585195
+s1135
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/PkgInfo
+t1294585195
+s8
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButton.LinkFileList
+c000000004D29CD6B00000000000001F3
+t1294585195
+s499
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonAppDelegate.o
+t1294585196
+s51272
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonViewController.o
+t1294585196
+s38904
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/main.o
+t1294585196
+s6340
+
+N/Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m
+c000000004D29CC350000000000000166
+t1294584885
+s358
+i<UIKit/UIKit.h>
+
+N/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch.gch
+t1294585196
+s15453392
+
+NDynamicButton-Info.plist
+c000000004D29CC35000000000000038D
+t1294584885
+s909
+
+CCheck dependencies
+r0
+lSLF07#2@18"Check dependencies316277995#316277995#0(0"0(0#1#0"32651513917735028#0"0#
+
+CCompileC build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonAppDelegate.o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316277996.820757
+e316277996.921984
+r1
+xCompileC
+xbuild/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonAppDelegate.o
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@99"Compile /Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m316277996#316277996#0(0"0(0#0#91"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m8606308832#2302"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonAppDelegate.m" -o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonAppDelegate.o"0#
+
+CCompileC build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonViewController.o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316277996.903376
+e316277996.989741
+r1
+xCompileC
+xbuild/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonViewController.o
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@102"Compile /Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m316277996#316277996#0(0"0(0#0#94"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m8618029088#2308"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/Classes/DynamicButtonViewController.m" -o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButtonViewController.o"0#
+
+CCompileC build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/main.o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m" normal i386 objective-c com.apple.compilers.gcc.4_2
+s316277996.819364
+e316277996.903276
+r1
+xCompileC
+xbuild/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/main.o
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@71"Compile /Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m316277996#316277996#0(0"0(0#0#63"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m8618379904#2254"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources" -include /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch -c "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/main.m" -o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/main.o"0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButtonViewController.xib"
+s316277995.331024
+e316277995.823294
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButtonViewController.xib
+lSLF07#2@42"CompileXIB DynamicButtonViewController.xib316277995#316277995#0(0"0(0#0#88"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButtonViewController.xib8617188288#670"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButtonViewController.nib" "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButtonViewController.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CCompileXIB "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/MainWindow.xib"
+s316277995.329773
+e316277995.823146
+r1
+xCompileXIB
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/MainWindow.xib
+lSLF07#2@25"CompileXIB MainWindow.xib316277995#316277995#0(0"0(0#0#71"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/MainWindow.xib8617332000#636"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv IBC_MINIMUM_COMPATIBILITY_VERSION 4.2    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/ibtool --errors --warnings --notices --output-format human-readable-text --compile "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/MainWindow.nib" "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/MainWindow.xib" --sdk /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk0#
+
+CGenerateDSYMFile "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app.dSYM" "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton"
+s316277997.207582
+e316277997.248364
+r1
+xGenerateDSYMFile
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app.dSYM
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton
+lSLF07#2@127"GenerateDSYMFile build/Debug-iphonesimulator/DynamicButton.app.dSYM build/Debug-iphonesimulator/DynamicButton.app/DynamicButton316277997#316277997#0(0"0(0#0#116"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton8617661248#461"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/usr/bin/dsymutil "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton" -o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app.dSYM"0#
+
+CLd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton" normal i386
+s316277996.989861
+e316277997.207469
+r1
+xLd
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton
+xnormal
+xi386
+lSLF07#2@121"Link /Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton316277996#316277997#0(0"0(0#0#0"8606428320#1030"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv MACOSX_DEPLOYMENT_TARGET 10.6    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -arch i386 -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk "-L/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator" "-F/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator" -filelist "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/Objects-normal/i386/DynamicButton.LinkFileList" -mmacosx-version-min=10.6 -Xlinker -objc_abi_version -Xlinker 2 -framework Foundation -framework UIKit -framework CoreGraphics -o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/DynamicButton"0#
+
+CProcessInfoPlistFile "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/Info.plist" DynamicButton-Info.plist
+s316277995.280826
+e316277995.329680
+r1
+xProcessInfoPlistFile
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/Info.plist
+xDynamicButton-Info.plist
+lSLF07#2@32"Process DynamicButton-Info.plist316277995#316277995#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButton-Info.plist7596835273552703488#557"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    builtin-infoPlistUtility DynamicButton-Info.plist -genpkginfo "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/PkgInfo" -expandbuildsettings -format binary -platform iphonesimulator -o "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app/Info.plist"0#
+
+CProcessPCH /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch.gch DynamicButton_Prefix.pch normal i386 objective-c com.apple.compilers.gcc.4_2
+s316277995.823475
+e316277996.819210
+r1
+xProcessPCH
+x/var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch.gch
+xDynamicButton_Prefix.pch
+xnormal
+xi386
+xobjective-c
+xcom.apple.compilers.gcc.4_2
+lSLF07#2@35"Precompile DynamicButton_Prefix.pch316277995#316277996#0(0"0(0#0#81"/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButton_Prefix.pch8616898304#2120"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv LANG en_US.US-ASCII    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin/gcc-4.2 -x objective-c-header -arch i386 -fmessage-length=0 -pipe -std=c99 -Wno-trigraphs -fpascal-strings -fasm-blocks -O0 -Wreturn-type -Wunused-variable -isysroot /Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator4.2.sdk -fexceptions -fvisibility=hidden -mmacosx-version-min=10.6 -gdwarf-2 -fobjc-abi-version=2 -fobjc-legacy-dispatch -D__IPHONE_OS_VERSION_MIN_REQUIRED=40200 -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-generated-files.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-own-target-headers.hmap" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-all-target-headers.hmap" -iquote "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DynamicButton-project-headers.hmap" "-F/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/include" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources/i386" "-I/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/DynamicButton.build/Debug-iphonesimulator/DynamicButton.build/DerivedSources" -c "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/DynamicButton_Prefix.pch" -o /var/folders/ph/phr-Y+XgGnC8KQJUDAn2RE+++TI/-Caches-/com.apple.Xcode.501/SharedPrecompiledHeaders/DynamicButton_Prefix-eropbrlksfixokgnvlvjcmlxogek/DynamicButton_Prefix.pch.gch0#
+
+CTouch "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app"
+s316277997.248451
+e316277997.275187
+r1
+xTouch
+x/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app
+lSLF07#2@108"Touch /Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app316277997#316277997#0(0"0(0#0#0"8618436832#324"    cd "/Users/sathish/Documents/iPhone Mobile App/DynamicButton"    setenv PATH "/Developer/Platforms/iPhoneSimulator.platform/Developer/usr/bin:/Developer/usr/bin:/usr/bin:/bin:/usr/sbin:/sbin"    /usr/bin/touch -c "/Users/sathish/Documents/iPhone Mobile App/DynamicButton/build/Debug-iphonesimulator/DynamicButton.app"0#
+
